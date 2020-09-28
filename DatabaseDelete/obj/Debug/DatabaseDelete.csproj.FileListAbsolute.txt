@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\DatabaseDelete\DatabaseDelete\bin\Debug\DatabaseDelete.exe.config
+C:\Users\Eren\source\repos\DatabaseDelete\DatabaseDelete\bin\Debug\DatabaseDelete.exe
+C:\Users\Eren\source\repos\DatabaseDelete\DatabaseDelete\bin\Debug\DatabaseDelete.pdb
+C:\Users\Eren\source\repos\DatabaseDelete\DatabaseDelete\obj\Debug\DatabaseDelete.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\DatabaseDelete\DatabaseDelete\obj\Debug\DatabaseDelete.Form1.resources
+C:\Users\Eren\source\repos\DatabaseDelete\DatabaseDelete\obj\Debug\DatabaseDelete.Properties.Resources.resources
+C:\Users\Eren\source\repos\DatabaseDelete\DatabaseDelete\obj\Debug\DatabaseDelete.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DatabaseDelete\DatabaseDelete\obj\Debug\DatabaseDelete.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DatabaseDelete\DatabaseDelete\obj\Debug\DatabaseDelete.exe
+C:\Users\Eren\source\repos\DatabaseDelete\DatabaseDelete\obj\Debug\DatabaseDelete.pdb
